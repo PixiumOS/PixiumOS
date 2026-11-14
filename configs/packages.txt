@@ -76,6 +76,8 @@ unattended-upgrades
 unminimize
 update-notifier-common
 util-linux
+wine
+winetricks
 xfsprogs
 zram-tools
 zsh
