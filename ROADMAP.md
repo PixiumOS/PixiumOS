@@ -4,11 +4,11 @@
 - [x] Choose base (Ubuntu devel branch)
 - [x] Configure nala
 - [x] Setup zram and earlyoom
-- [x] Create a script/wrapper to block `apt upgrade` and suggest `dist-upgrade` 
+- [x] Create a script/wrapper to block `apt upgrade` and suggest `dist-upgrade`
+- [ ] roll out a custom installer called TuquuC
 
 ## Phase 2: Build System & Installer
 - [ ] Master Penguin Eggs (Penguin's Chef)
-- [ ] Configure Calamares installer (branding, partitions)
 - [ ] Build first ISO (1.0 beta)
 
 ## Phase 3: Public Alpha Release
