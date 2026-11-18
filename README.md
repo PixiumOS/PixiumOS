@@ -14,6 +14,7 @@ It is currently in the early stages of development.
 * Gaming-optimized kernel.
 * Based on the Ubuntu `devel` branch.
 * Custom TuquuC installer.
+* Cut out snapd.
 
 ## Project Status
 ⚠️ **Early Development**: There is no ISO available yet.
