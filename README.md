@@ -1,7 +1,6 @@
 # PulseOS
 
-<img width="1600" height="901" alt="image" src="https://github.com/user-attachments/assets/9c810665-5745-4664-9f58-f3f0ef47edad" />
-
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/adee0f09-d400-4443-91c9-fc020a0a2e26" />
 
 PulseOS is a rolling-release Linux distribution based on Ubuntu. 
 It is currently in the early stages of development.
