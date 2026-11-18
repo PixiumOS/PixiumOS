@@ -12,7 +12,6 @@ apt-transport-https
 ark
 at-spi2-core
 avahi-daemon
-baobab
 base-files
 bash
 bash-completion
@@ -83,10 +82,8 @@ git
 gnome-bluetooth-sendto
 gnome-control-center
 gnome-disk-utility
-gnome-font-viewer
 gnome-initial-setup
 gnome-keyring
-gnome-logs
 gnome-menus
 gnome-remote-desktop
 gnome-session-canberra
@@ -227,7 +224,6 @@ sq
 strace
 sudo
 sudo-rs
-sysprof
 sysstat
 systemd
 systemd-resolved
@@ -244,7 +240,6 @@ ubuntu-insights
 ubuntu-keyring
 ubuntu-pro-client
 ubuntu-release-upgrader-core
-ubuntu-release-upgrader-gtk
 ubuntu-session
 ubuntu-settings
 ubuntu-wallpapers
@@ -253,9 +248,7 @@ ufw
 unattended-upgrades
 unminimize
 unzip
-update-manager
 update-manager-core
-update-notifier
 update-notifier-common
 usbutils
 util-linux
@@ -263,9 +256,8 @@ uuid-runtime
 wget
 whiptail
 whoopsie
-wine
-winetricks
 wireplumber
+wmctrl
 wpasupplicant
 wsdd
 xcursor-themes
@@ -274,6 +266,7 @@ xdg-terminal-exec
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
+xdotool
 xfsprogs
 xkb-data
 xz-utils
