@@ -1,6 +1,3 @@
-com.github.tchx84.Flatseal
 com.mattjakeman.ExtensionManager
-com.vysp3r.ProtonPlus
 io.github.d2phap.imageglass
-io.github.flattool.Warehouse
 org.mozilla.firefox
