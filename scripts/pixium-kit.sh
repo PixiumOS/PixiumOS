@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# PulseOS Kit - simple terminal installer menu
+# PixiumOS Kit - simple terminal installer menu
 
-ITEMS=("pulseos-gaming" "pulseos-dev" "pulseos-office" "pulseos-creative" "exit")
+ITEMS=("pixiumos-gaming" "pixiumos-dev" "pixiumos-office" "pixiumos-creative" "exit")
 DESCS=("(Steam, Lutris, Wine, Winetricks)" "(VS Code, Docker)" "(LibreOffice or OnlyOffice)" "(Blender, OBS)" "")
 CHECKED=(0 0 0 0 0)
 SELECTED=0
@@ -37,7 +37,7 @@ ensure_flatpak() {
 
 draw_menu() {
     clear
-    echo "PulseOS Kit"
+    echo "PixiumOS Kit"
     echo "─────────────"
     local i prefix box
     for i in "${!ITEMS[@]}"; do
@@ -126,10 +126,10 @@ install_office() {
 run_item() {
     local idx=$1 status=0
     case ${ITEMS[$idx]} in
-        pulseos-gaming)   clear; tput cnorm; install_gaming;   status=$? ;;
-        pulseos-dev)      clear; tput cnorm; install_dev;      status=$? ;;
-        pulseos-office)   install_office;                      status=$? ;;
-        pulseos-creative) clear; tput cnorm; install_creative; status=$? ;;
+        pixiumos-gaming)   clear; tput cnorm; install_gaming;   status=$? ;;
+        pixiumos-dev)      clear; tput cnorm; install_dev;      status=$? ;;
+        pixiumos-office)   install_office;                      status=$? ;;
+        pixiumos-creative) clear; tput cnorm; install_creative; status=$? ;;
     esac
 
     if [[ $status -eq 2 ]]; then      # user pressed "Back" in office menu
