@@ -1,8 +1,8 @@
-# PulseOS
+# PixiumOS
 
 <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/adee0f09-d400-4443-91c9-fc020a0a2e26" />
 
-PulseOS is a rolling-release Linux distribution based on Ubuntu. (THIS IS A FULL-FLEDGED DISTRIBUTION NOT A BUILD/REMIX!)
+PixiumOS is a rolling-release Linux distribution based on Ubuntu. (THIS IS A FULL-FLEDGED DISTRIBUTION NOT A BUILD/REMIX!)
 It is currently in the early stages of development.
 
 ## Features (Planned & In Progress)
