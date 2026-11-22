@@ -1,0 +1,3 @@
+PRETTY_NAME="PixiumOS 1.0"
+NAME="PixiumOS"
+ID=pixiumos
