@@ -1,3 +1,2 @@
 com.mattjakeman.ExtensionManager
 io.github.d2phap.imageglass
-org.mozilla.firefox
