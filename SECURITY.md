@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-PulseOS is currently in early development (Alpha). Security updates are provided for the latest codebase only.
+PixiumOS is currently in early development (Alpha). Security updates are provided for the latest codebase only.
 
 ## Reporting a Vulnerability
 **Please do not report security vulnerabilities through public GitHub issues.**
