@@ -23,4 +23,4 @@ If applicable, add screenshots or terminal logs to help explain your problem.
 
 **Environment:**
  - Device: [e.g. VirtualBox, Real Hardware]
- - PulseOS Version: [e.g. Alpha v0.1]
+ - PixiumOS Version: [e.g. Alpha v0.1]
