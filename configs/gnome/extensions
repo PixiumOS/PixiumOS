@@ -1,8 +1,8 @@
-GNOME Extension Settings in PixiumOS
+#GNOME Extension Settings in PixiumOS
 
 Below is a list of all installed extensions and their default state.
 
-System extensions:
+##System extensions:
 
 - [x] ubuntu-appindicators@ubuntu.com
 - [ ] ubuntu-dock@ubuntu.com
