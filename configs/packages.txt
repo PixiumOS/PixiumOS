@@ -68,6 +68,7 @@ fonts-noto-color-emoji
 fonts-noto-core
 fonts-ubuntu
 fonts-ubuntu-console
+fonts-unifont
 foomatic-db-compressed-ppds
 friendly-recovery
 ftp
@@ -124,12 +125,17 @@ iputils-tracepath
 iw
 kbd
 kmod
+language-pack-en
+language-pack-en-base
+language-pack-gnome-en
+language-pack-gnome-en-base
 language-selector-common
 language-selector-gnome
 laptop-detect
 less
 libatk-adaptor
 libattr1
+libblake3-0
 libcurl4-gnutls
 libglib2.0-bin
 libnotify-bin
