@@ -1,4 +1,4 @@
-# PulseOS Roadmap
+# PixiumOS Roadmap
 
 ## Phase 1: Base System Configuration (Current)
 - [x] Choose base (Ubuntu devel branch)
