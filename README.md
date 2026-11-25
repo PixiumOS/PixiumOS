@@ -21,5 +21,5 @@ It is currently in the early stages of development.
 ⚠️ **Early Development**: There is no ISO available yet.
 
 ## Community & Updates
-* Telegram: https://t.me/pulseoslinux
+* Telegram: https://t.me/pixiumos
 * Discord: https://discord.com/invite/UVPhkcHKnK
