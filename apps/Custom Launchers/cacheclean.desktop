@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=cacheclean
+GenericName=Cache Cleaner Info
+Comment=Information about the background cache cleaning service
+Exec=/usr/share/cacheclean/about.sh
+Icon=/usr/share/icons/cacheclean.png
+Terminal=false
+Categories=System;Utility;
+StartupWMClass=cacheclean
