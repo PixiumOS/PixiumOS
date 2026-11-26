@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=EasyHelper
+Comment=Helper for beginners in PixiumOS
+Exec=python3 /usr/share/easyhelper.py
+Icon=/usr/share/ksnip_20261111-174102-removebg-preview.png
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
+StartupWMClass=org.easyhelper.App
